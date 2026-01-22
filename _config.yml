@@ -8,3 +8,9 @@ plugins:
   - jekyll-remote-theme
 
 markdown: kramdown
+
+header_pages:
+  - index.md
+  - sobre.md
+  - depoimentos.md
+  - historias/infancia.md
