@@ -1,6 +1,5 @@
 title: Fábio Soares Ribeiro
 description: Registro histórico, memórias e legado familiar
-theme: jekyll-theme-minimal
 
 markdown: kramdown
 
@@ -9,10 +8,3 @@ kramdown:
   hard_wrap: false
 
 show_downloads: false
-
-plugins:
-  - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0
-
-# Wikipedia-style configuration
-css_file: /assets/css/wikipedia-style.css
