@@ -1,36 +1,31 @@
 <div class="infobox">
   {% if page.infobox %}
+    <div class="infobox-title">{{ site.title }}</div>
     {% for item in page.infobox %}
       {% if item[0] == "Offices" %}
-        <h3>Offices</h3>
-        <ul>
-          {% for office in item[1] %}
-            <li>
-              <strong>{{ office.title }}</strong><br>
-              In office: {{ office.in_office }}<br>
-              {% if office.Vice %}Vice: {{ office.Vice }}<br>{% endif %}
-              {% if office.Preceded_by %}Preceded by: {{ office.Preceded_by }}<br>{% endif %}
-              {% if office.Succeeded_by %}Succeeded by: {{ office.Succeeded_by }}<br>{% endif %}
-              {% if office.Constituency %}Constituency: {{ office.Constituency }}<br>{% endif %}
-            </li>
-          {% endfor %}
-        </ul>
+        <div class="infobox-row">
+          <div class="infobox-label">{{ item[0] }}</div>
+          <div class="infobox-value">
+            <ul>
+              {% for office in item[1] %}
+                <li>
+                  <strong>{{ office.title }}</strong><br>
+                  In office: {{ office.in_office }}<br>
+                  {% if office.Vice %}Vice: {{ office.Vice }}<br>{% endif %}
+                  {% if office.Preceded_by %}Preceded by: {{ office.Preceded_by }}<br>{% endif %}
+                  {% if office.Succeeded_by %}Succeeded by: {{ office.Succeeded_by }}<br>{% endif %}
+                  {% if office.Constituency %}Constituency: {{ office.Constituency }}<br>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
       {% else %}
-        <p><strong>{{ item[0] }}:</strong> {{ item[1] }}</p>
+        <div class="infobox-row">
+          <div class="infobox-label">{{ item[0] }}:</div>
+          <div class="infobox-value">{{ item[1] }}</div>
+        </div>
       {% endif %}
     {% endfor %}
   {% endif %}
 </div>
-<style>
-    .infobox {
-  border: 1px solid #aaa;
-  padding: 10px;
-  width: 250px;
-  float: right;
-  background-color: #f8f8f8;
-  font-size: 0.9em;
-  margin-left: 20px;
-}
-.infobox h3 {
-  margin-top: 0;
-}

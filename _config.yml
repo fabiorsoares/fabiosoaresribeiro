@@ -13,3 +13,6 @@ show_downloads: false
 plugins:
   - jekyll-remote-theme
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Wikipedia-style configuration
+css_file: /assets/css/wikipedia-style.css
