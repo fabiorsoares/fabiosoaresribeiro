@@ -2,8 +2,10 @@
 layout: default
 title: Fábio Soares Ribeiro
 description: Legado, memórias e histórias de vida
+profile_image: /fotos/86155E04-191E-4D15-B6FB-EC015E7A9967_1_105_c.jpeg
 infobox:
-  Born: 24 de julho de 1961, Antônio João, Mato Grosso do Sul
+  Nascimento: 24 de julho de 1961, Antônio João, Mato Grosso do Sul
+  Morte: 6 de janeiro de 2026, João Pessoa, Paraíba
   Filhos: Fabio Soares Ribeiro Junior e Vitoria Choupina Ribeiro
   Netos: Thomas e Davi
   Cônjuge: Fabíola Ribeiro Choupina (c. 1990; div. 2015)
@@ -21,27 +23,56 @@ Fábio valorizava a transmissão de valores positivos, como o amor à vida, prá
 
 O registro deste site organiza suas memórias, preferências, histórias e depoimentos, preservando o legado familiar de forma acessível e estruturada para consulta.
 
-{% include infobox.html %}
-
 ## Conteúdo
 {:toc}
 
-## Biografia resumida
+## Biografia
 Texto curto, factual, 1–2 parágrafos.
 
 ## Vida familiar
 Resumo + link.
 👉 [[Histórias]]
 
-## Trajetória profissional
+## Vida de comerciante
 Resumo.
 
 ## Depoimentos
 Resumo + link.
 👉 [[Depoimentos]]
 
-## Documentos e registros
-Se ainda não tiver, deixa “em construção”.
+## Filmes e personagens favoritos
+
+### 🎬 Filmes
+
+| Jason Bourne               |
+| Terminal                   |
+| O resgate do soldado Ryan  |
+| Guarda costas              |
+| Rocky                      |
+| ABC do amor                |
+| Invictus                   |
+| Grease                     |
+
+### 📺 Séries
+
+| Dexter  |
+
+### 🎵 Músicas
+
+| Led Zeppelin - Starway to Heaven    |
+| Jota Quest - O sol                  |
+
+### ⭐ Famosos
+
+| Ayrton Senna  |
+| Muhamed Ali   |
+| Queen         |
+| Matt Damon    |
+| Bruce Lee     |
+| Tim Maia      |
+| Jimmy Hendrix |
+| Michael Jordan|
+| Nigel Mansel  |
 
 ## Ver também
 - [[Sobre este projeto]]

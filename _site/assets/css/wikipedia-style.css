@@ -465,6 +465,79 @@ footer {
   }
 }
 
+@media (max-width: 900px) {
+  .wrapper {
+    display: block;
+    padding: 10px;
+  }
+  .sidebar {
+    width: 100%;
+    float: none;
+    margin: 0 0 20px 0;
+    grid-column: auto;
+    grid-row: auto;
+  }
+  .infobox {
+    float: none;
+    margin: 0 auto 20px auto;
+    width: 100%;
+    max-width: 400px;
+    font-size: 14px;
+  }
+  main {
+    width: 100%;
+    padding: 0;
+    grid-column: auto;
+  }
+  h1 {
+    font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
+  nav ul {
+    flex-direction: column;
+    padding: 0 5px;
+  }
+  nav a {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  table, .wikitable {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 13px;
+    padding: 0;
+  }
+  .wrapper {
+    padding: 2px;
+  }
+  .infobox {
+    font-size: 13px;
+    max-width: 100%;
+  }
+  h1 {
+    font-size: 1.1em;
+  }
+  h2 {
+    font-size: 1em;
+  }
+  nav a {
+    font-size: 13px;
+    padding: 6px 4px;
+  }
+  table, .wikitable {
+    font-size: 12px;
+  }
+}
+
 /* Print styles */
 @media print {
   header, nav, footer {
