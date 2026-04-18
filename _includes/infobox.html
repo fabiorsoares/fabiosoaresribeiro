@@ -1,7 +1,7 @@
 <div class="infobox">
   {% if page.profile_image %}
   <div style="text-align:center; background:transparent; border:none;">
-    <img src="{{ page.profile_image | relative_url }}" alt="Foto de perfil" style="max-width:180px;max-height:220px;border-radius:6px;margin:8px auto;display:block;">
+    <img src="{{ page.profile_image | relative_url }}" alt="Foto de perfil" class="infobox-profile-img">
   </div>
 {% endif %}
   {% if page.infobox %}

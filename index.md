@@ -2,7 +2,7 @@
 layout: default
 title: Fábio Soares Ribeiro
 description: Legado, memórias e histórias de vida
-profile_image: /fotos/86155E04-191E-4D15-B6FB-EC015E7A9967_1_105_c.jpeg
+profile_image: /fotos/fabioribeiro.jpg
 infobox:
   Nascimento: 24 de julho de 1961, Antônio João, Mato Grosso do Sul
   Morte: 6 de janeiro de 2026, João Pessoa, Paraíba
@@ -62,7 +62,7 @@ Resumo + link.
 | Led Zeppelin - Starway to Heaven    |
 | Jota Quest - O sol                  |
 
-### ⭐ Famosos
+### ⭐ Figuras notáveis
 
 | Ayrton Senna  |
 | Muhamed Ali   |
