@@ -147,7 +147,8 @@ main {
 
 .infobox-row {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: 120px 1fr;
+  align-items: start;
   border-bottom: 1px solid #e8e8e8;
   padding: 8px 0;
 }
@@ -160,6 +161,8 @@ main {
   font-weight: 600;
   padding-right: 10px;
   color: var(--text-color);
+  min-width: 120px;
+  text-align: right;
 }
 
 .infobox-value {
