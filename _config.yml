@@ -9,16 +9,5 @@ kramdown:
 
 show_downloads: false
 
-collections_dir: pages
-collections:
-  pages:
-    output: true
-    permalink: /:name
 
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
 

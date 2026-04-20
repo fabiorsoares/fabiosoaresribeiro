@@ -9,7 +9,7 @@
 6. [x] Populate README.md
 7. [x] Update _data/navigation.yml if needed
 8. [x] Test: bundle exec jekyll serve
-9. [ ] Commit to blackboxai/reorganize branch
+9. [x] Commit to blackboxai/reorganize branch
 
 Progress will be updated after each step.
 
