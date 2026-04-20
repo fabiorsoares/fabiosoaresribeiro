@@ -2,7 +2,7 @@
 layout: default
 title: Fábio Soares Ribeiro
 description: Legado, memórias e histórias de vida
-profile_image: /fotos/fabioribeiro.jpg
+profile_image: /assets/images/fabioribeiro.jpg
 infobox:
   Nascimento: 24 de julho de 1961, Antônio João, Mato Grosso do Sul
   Morte: 6 de janeiro de 2026, João Pessoa, Paraíba
