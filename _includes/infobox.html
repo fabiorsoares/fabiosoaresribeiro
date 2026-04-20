@@ -1,4 +1,9 @@
 <div class="infobox">
+  {% if page.profile_image %}
+  <div style="text-align:center; background:transparent; border:none;">
+    <img src="{{ page.profile_image | relative_url }}" alt="Foto de perfil" class="infobox-profile-img">
+  </div>
+{% endif %}
   {% if page.infobox %}
     <div class="infobox-title">{{ site.title }}</div>
     {% for item in page.infobox %}
