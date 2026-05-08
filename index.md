@@ -25,7 +25,7 @@ Fábio tinha prazer nas coisas simples e verdadeiras da vida: reunir amigos, des
 
 Este registro existe para preservar suas memórias, histórias, gostos e ensinamentos, mantendo viva a essência de quem ele foi: um pai inesquecível, cuja presença continua ecoando na vida de todos que tiveram o privilégio de conhecê-lo.
 
-## Depoimentos
+## Deixe seu depoimento ou sugira alguma correção
 👉 [Clique aqui para enviar um depoimento](#formulario-depoimento)
 
 ## Infância
