@@ -21,7 +21,7 @@ Era apaixonado pela vida em movimento. Gostava de esportes, especialmente futsal
 
 Também amava a estrada. De moto ou de carro, encontrava felicidade naquele horizonte infinito, na sensação de liberdade e nas aventuras compartilhadas com quem amava. As viagens em família, os momentos inesperados, e os acidentes transformados em histórias engraçadas se tornaram parte do seu legado.
 
-Fábio tinha prazer nas coisas simples e verdadeiras da vida: reunir amigos, descobrir novos restaurantes, ouvir músicas, assistir filmes e aproveitar o tempo ao lado das pessoas que amava. Era alguém de personalidade forte, mas de coração generoso, que valorizava justiça, igualdade entre os filhos, respeito e a convivência com pessoas de bem.
+Fábio tinha prazer nas coisas simples e verdadeiras da vida: reunir amigos, descobrir novos restaurantes, ouvir músicas, assistir filmes e aproveitar o tempo ao lado das pessoas que amava. Era alguém de personalidade forte (teimoso, se preferir), mas de coração generoso, que valorizava justiça, igualdade entre os filhos, respeito e a convivência com pessoas de bem.
 
 Este registro existe para preservar suas memórias, histórias, gostos e ensinamentos, mantendo viva a essência de quem ele foi: um pai inesquecível, cuja presença continua ecoando na vida de todos que tiveram o privilégio de conhecê-lo.
 
