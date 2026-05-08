@@ -15,13 +15,15 @@ infobox:
 
 ---
 
-Fábio Soares Ribeiro (Antônio João, 24 de julho de 1961 – João Pessoa, 6 de janeiro de 2026) foi um pai, avô e figura central de sua família, conhecido por sua dedicação aos filhos e pela presença constante no cotidiano familiar. 
+Fábio Soares Ribeiro (Antônio João, 24 de julho de 1961 – João Pessoa, 6 de janeiro de 2026) foi, acima de tudo, um pai presente. Alguém que construiu sua vida ao redor da família, deixando nos filhos, netos e amigos, lembranças que seguem vivas em cada história contada, em cada viagem lembrada e em cada ensinamento transmitido.
 
-Sua vida foi marcada por uma ampla variedade de interesses e atividades, incluindo esportes como natação, futsal e capoeira, motociclismo, viagens e coleções de filmes e músicas. Também era reconhecido por seu gosto por gastronomia, frequentando restaurantes e experimentando novas receitas, além de manter forte vínculo com amigos e familiares.
+Era apaixonado pela vida em movimento. Gostava de esportes, especialmente futsal, basquete, natação e boxe, e acreditava que disciplina e saúde caminhavam juntas. Entre suas frases inesquecíveis, uma resumia bem seu jeito de pensar: “Futebol é lazer, natação é obrigação”. Mais do que palavras, eram valores que fazia questão de passar aos filhos através do exemplo diário.
 
-Fábio valorizava a transmissão de valores positivos, como o amor à vida, prática de esportes, justiça e igualdade entre os filhos, e a convivência com pessoas de bem. Sua personalidade ficou registrada tanto em frases de efeito, como "Futebol é lazer, natação é obrigação", quanto em histórias de cuidado e aventuras vividas com a família, que incluem viagens, esportes, acidentes e episódios inusitados. Amava pegar a estrada, seja de moto ou carro, o importante era ter aquela imensidão de pista no horizonte.
+Também amava a estrada. De moto ou de carro, encontrava felicidade naquele horizonte infinito, na sensação de liberdade e nas aventuras compartilhadas com quem amava. As viagens em família, os momentos inesperados, e os acidentes transformados em histórias engraçadas se tornaram parte do seu legado.
 
-O registro deste site organiza suas memórias, preferências, histórias e depoimentos, preservando o legado familiar de forma acessível e estruturada para consulta.
+Fábio tinha prazer nas coisas simples e verdadeiras da vida: reunir amigos, descobrir novos restaurantes, ouvir músicas, assistir filmes e aproveitar o tempo ao lado das pessoas que amava. Era alguém de personalidade forte, mas de coração generoso, que valorizava justiça, igualdade entre os filhos, respeito e a convivência com pessoas de bem.
+
+Este registro existe para preservar suas memórias, histórias, gostos e ensinamentos, mantendo viva a essência de quem ele foi: um pai inesquecível, cuja presença continua ecoando na vida de todos que tiveram o privilégio de conhecê-lo.
 
 ## Biografia
 
@@ -33,7 +35,7 @@ Resumo + link.
 👉 [[Histórias]]
 
 ### Vida de comerciante
-Começou a trabalhar com restaurante aos 13 anos com seu Felisberto (pai da sua irmã Renata). E trabalhou nesse ramo por toda sua vida, tendo diversas lanchonetes, restaurantes, cafés, cozinha industrial, e por último, o carrinho de churros. Sempre se reinventando e enxergando possibilidades de empreender ao seu redor. Muitos deram certo, mas circunstâncias externas acabaram atrapalhando, como foi o caso da cozinha industrial dentro da Bayer. Pela primeira vez, tinha aberto mão de abrir seu restaurante para o público, trocou a incerteza do número de clientes que entrariam pela porta, pela certeza da quantidade de almoços que seria servida nessa grande empresa. O que diminuía para quase zero o desperdício, porém, quis o destino que essa empresa multinacional, que se mostrava sólida, começasse a falhar com os pagamentos, e visando a continuidade da parceria, Fábio continuou investindo por meses sem pagamento, até que veio a última gota. Fim do contrato, dívida não paga, e nenhum outro cliente para servir. 
+Começou a trabalhar com restaurante aos 13 anos com Seu Felisberto (pai da sua irmã Renata). E trabalhou nesse ramo por toda sua vida, tendo diversas lanchonetes, restaurantes, cafés, cozinha industrial, e por último, o carrinho de churros. Sempre se reinventando e enxergando possibilidades de empreender ao seu redor. Muitos deram certo, mas circunstâncias externas acabaram atrapalhando, como foi o caso da cozinha industrial dentro da Bayer. Pela primeira vez, tinha aberto mão de abrir seu restaurante para o público, trocou a incerteza do número de clientes que entrariam pela porta, pela certeza da quantidade de almoços que seria servida nessa grande empresa. O que diminuía para quase zero o desperdício, porém, quis o destino que essa empresa multinacional, que se mostrava sólida, começasse a falhar com os pagamentos, e visando a continuidade da parceria, Fábio continuou investindo por meses sem pagamento, até que veio a última gota. Fim do contrato, dívida não paga, e nenhum outro cliente para servir. 
 
 Comércios mais marcantes
 
